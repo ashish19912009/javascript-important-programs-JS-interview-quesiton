@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Print the current page.</title>
+</head>
+<body>
+<p></p>
+<h1>Testing Image</h1>
+<p>Click the button to print the current page.</p>
+<button>Print this page</button>
+<script>
+
+function temp(fName) {
+    function abc(lName) {
+        console.log(fName+" "+lName);
+    }
+    return abc;
+}
+
+var newTemp = temp('Ashish');
+console.dir(newTemp);
+newTemp('Rena');
+
+
+</script>
+</body>
+</html>

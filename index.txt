@@ -1,0 +1,155 @@
+1. Write a JavaScript program to display the current day and time in the following format.
+    Sample Output : Today is : Tuesday.
+    Current time is : 10 PM : 30 : 38
+
+2. Write a JavaScript program to print the contents of the current window.
+
+3. Write a JavaScript program to get the current date.
+    mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy
+
+4. Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
+
+5. Write a JavaScript program to rotate the string 'w3resource' in right direction by periodically removing one letter from the end of the string and attaching it to the front.
+
+6. Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.
+
+7. Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050.
+
+8. Write a JavaScript program where the program takes a random integer between 1 to 10, the user is then prompted to input a guess number. If the user input matches with guess number, the program will display a message "Good Work" otherwise display a message "Not matched". 
+
+9. Write a JavaScript program to calculate days left until next Christmas. 
+
+12. Write a JavaScript program to get the website URL (loading page).
+
+13. Write a JavaScript exercise to create a variable using a user-defined name.
+
+14. Write a JavaScript exercise to get the extension of a filename.
+
+18. Write a JavaScript program to check two given numbers and return true if one of the number is 50 or if their sum is 50.
+
+19. You are given a non-empty list of integers (X). For this task, you should return a list 
+    consisting of only the non-unique elements in this list. To do so you will need to remove
+    all unique elements (elements which are contained in a given list only once). When solving
+    this task, do not change the order of the list. Example: [1, 2, 3, 1, 3] 1 and 3 non-unique
+    elements and result will be [1, 3, 1, 3].
+
+20. A median is a numerical value separating the upper half of a sorted array of numbers
+    from the lower half. In a list where there are an odd number of entities, the median
+    is the number found in the middle of the array. If the array contains an even number
+    of entities, then there is no single middle value, instead the median becomes the
+    average of the two numbers found in the middle. For this mission, you are given a
+    non-empty array of natural numbers (X). With it, you must separate the upper half of
+    the numbers from the lower half and find the median.
+
+21. Array sorting desending order.
+
+22. You are given a text, which contains different english letters and punctuation symbols.
+    You should find the most frequent letter in the text. The letter returned must be in
+    lower case. While checking for the most wanted letter, casing does not matter, so for
+    the purpose of your search, "A" == "a". Make sure you do not count punctuation symbols,
+    digits and whitespaces, only letters. 
+
+23. Fredo is assigned a new task today. He is given an array A containing N integers. 
+    His task is to update all elements of array to some minimum value x , 
+    that is, A[i]=x; 1≤i≤N such that sum of this new array is strictly greater than
+    the sum of the initial array. Note that x should be as minimum as possible such that
+    sum of the new array is greater than the sum of the initial array.
+
+    Input Format: First line of input consists of an integer N denoting the number of
+    elements in the array A.Second line consists of N space separated integers denoting
+    the array elements.
+    
+    Output Format: The only line of output consists of the value of x.
+
+24. Implement Binary Search.
+
+25. Find Square root of any given number.
+
+26. Check if a number is perfect square without finding square root.
+
+27. Find if a given number is armstrong number.
+
+28. Find if a given number is prime number or not.
+
+29. Program for Fibonacci numbers.
+
+30. Check if a given number is Fibonacci number.
+
+31. Efficient program to print all prime factors of a given number.
+
+32. Program to find LCM of two numbers.
+
+33. Find union of two array is javascript.
+
+34. Find factorial of a given number.
+
+35. Implement merge sort in javascript.
+
+36. Console.log true if characters in a string Javascript in repeated else false.
+
+37. find and print repeated characters in a string Javascript.
+
+38. Closures in Javascript.
+
+39. OOJS
+
+40. How to check if a variable is array or not
+
+41. best way to check prime number
+
+42. best way to get prime factor
+
+43. How do get nth Fibonacci number?
+
+44. How would you find the greatest common divisor of two numbers?
+
+45. How would you remove duplicate members from an array?
+
+46. Merge two sorted array
+
+47. swap number without temp
+
+48. Reverse of String
+
+49. Reverse of String recursive
+
+50. Can you make reverse function as string extension?
+
+51. First non repeating char
+
+52. How would you add your own method to the Array object so the following code would work?
+
+53. Explain what a callback function is and provide a simple example.
+
+54. Given an array of integers, find the largest product yielded from three of the integers
+
+55. Being told that an unsorted array contains (n - 1) of n consecutive numbers (where the bounds are defined), find the missing number in O(n) time.
+
+56. Removing duplicates of an array and returning an array of only unique elements.
+
+57. Given a string, reverse each word in the sentence "Welcome to this Javascript Guide!" should be become.
+
+58. Given two strings, return true if they are anagrams of one another "Mary" is an anagram of "Army".
+
+59. Find all pairs in an array of integers whose sum is equal to a given number.
+
+60. Find the intersection of two arrays. An intersection would be the common elements that exists within both arrays. In this case, these elements should be unique!
+
+61. Check if a given string is a palindrome "racecar" is a palindrome. "race car" should also be considered a palindrome. Case sensitivity should be taken into account.
+
+62. Check if a given string is a isomorphic.
+
+63. Create a function that will evaluate if a given expression has balanced parentheses -- 
+    Using stacks In this example, we will only consider "{}" as valid parentheses {}{} would 
+    be considered balancing. {{{}} is not balanced.
+
+64. Write a recursive function that returns the binary string of a given decimal number 
+    Given 4 as the decimal input, the function should return 100.
+
+65. Implement Bubble Sort
+
+66. Implement Selection Sort
+
+67. Implement Prototypal inheritance.
+
+68. Implement Class inheritance.
